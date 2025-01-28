@@ -1,2 +1,2 @@
 # demoo-6
-create a repo
+create a  new repo
